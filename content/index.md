@@ -6,6 +6,9 @@ Description: This is our index page.
 Home page
 ==========================
 
-The source for this page is in `content/index.md`.
+Hi, you've come to my page. I am Kim aka MrFishFish02 on github, very cool name yes?
+I don't know what to write here so I'll just use the casual presentation (interest).
+I enjoy programming until a certain point (when the code stops working and you just want to delete it all). 
+I also have a interest in FPS games and motorcycles. But one of the things I enjoy most is chilling outside. 
+To your left is a picture of a sunset I took when I was fishing at a lake. ![Sunset](image/image2.jpg "Sunset over a lake")
 
-This is a sample home page written in markdown with some frontmatter defined. Test
