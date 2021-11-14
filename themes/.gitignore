@@ -1,5 +1,6 @@
 # Default theme installed by composer
 /default
+/test
 
 # NPM
 build/

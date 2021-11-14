@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid $font-color;
+}
+
+.footer .social {
+    font-size: 2rem;
+}

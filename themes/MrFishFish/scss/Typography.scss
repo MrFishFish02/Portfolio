@@ -1,0 +1,96 @@
+/* Typografy */
+
+body {
+    font-family: $custom-font, sans-serif;
+    /* line-height: 1.5rem; */
+    background-color: $background-color;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+    overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+p,
+td,
+th,
+li,
+dd {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    text-align: justify;
+    color: $link-color;
+} 
+
+.main p {
+    color: $link-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-bottom: 0.6em;
+    font-weight: bold;
+    color: $light-font-color;
+}
+
+.center-main h1 {
+    color: $light-font-color;
+}
+
+.center-main div,
+h1 {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+.center-main img {
+    border: 5px solid $font-color;
+    min-width: 200px;
+    min-height: 200px;
+}
+
+.nav a {
+    color: $link-color;
+    font-weight: bold;
+}
+
+.footer * {
+    color: $link-color;
+}
+
+.title *,
+p {
+    color: $light-font-color;
+}
+
+.center-main {
+    display: flex;
+    justify-content: center;
+    color: $link-color;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.center-main p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.main p a,
+li a {
+    color: $font-color;
+}
+
+.main {
+    margin-left: 7px;
+    margin-right: 7px;
+}
