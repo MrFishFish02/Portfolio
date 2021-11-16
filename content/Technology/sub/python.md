@@ -1,6 +1,6 @@
 ---
 Title: Python
-Template: technology
+Template: Technology
 ---
 
 # Python

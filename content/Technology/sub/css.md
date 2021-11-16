@@ -1,6 +1,6 @@
 ---
 Title: Css
-Template: technology
+Template: Technology
 ---
 
 # CSS

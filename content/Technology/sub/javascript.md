@@ -1,6 +1,6 @@
 ---
 Title: Javascript
-Template: technology
+Template: Technology
 ---
 
 # JavaScript

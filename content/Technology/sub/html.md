@@ -1,6 +1,6 @@
 ---
 Title: Html
-Template: technology
+Template: Technology
 ---
 
 # HTML

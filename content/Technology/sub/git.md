@@ -1,6 +1,6 @@
 ---
 Title: Git
-Template: technology
+Template: Technology
 ---
 
 # Git

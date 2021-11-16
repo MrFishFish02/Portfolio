@@ -1,6 +1,6 @@
 ---
 Title: Sqlite
-Template: technology
+Template: Technology
 ---
 
 # SQLite

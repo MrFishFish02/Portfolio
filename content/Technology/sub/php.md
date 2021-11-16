@@ -1,6 +1,6 @@
 ---
 Title: PHP
-Template: technology
+Template: Technology
 ---
 
 # PHP
