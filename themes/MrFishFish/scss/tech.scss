@@ -1,0 +1,43 @@
+.grid-tech {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    grid-auto-rows: minmax(25rem, auto);
+    align-items: center;
+    grid-auto-flow: row;
+
+    h1 {
+        grid-column: span 3;
+        color: $font-color;
+        border-bottom: 3px solid;
+        border-image: linear-gradient(to right, $font-color 0%, $link-color 50%) 5;
+        border-radius: 0.5rem;
+    }
+
+}
+
+.box1:last-child {
+    grid-column: span 3;
+}
+
+.box1 {
+    display: flex;
+    background-color: $dark-color;
+    border: 5px solid;
+    border-image: linear-gradient(to right, $font-color 0%, $link-color 50%) 5;
+
+    &:hover {
+        border-image: linear-gradient(to right, $link-color 0%, $font-color 50%) 5;
+    }
+
+    a {
+        color: $link-color;
+        font-weight: $font-weight;
+        height: 10rem;
+        width: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}

@@ -5,7 +5,8 @@ code {
     border-radius: 0.3em;
     background: $pre-code-color;
     font-family: monospace;
-    font-size: 0.85rem;
+    font-size: $font-size-p;
+    font-weight: bold;
     line-height: 1.9824;
     color: $font-color;
 }
@@ -15,6 +16,8 @@ pre {
     border: 1px solid $font-color;
     border-radius: 0.3em;
     background: $pre-code-color;
+    font-size: $font-size-p;
+    font-weight: bold;
 }
 
 pre code {
@@ -25,5 +28,7 @@ pre code {
     background: transparent;
     overflow-x: auto;
     line-height: 1.4;
+    font-size: $font-size-p;
+    font-weight: bold;
 }
 

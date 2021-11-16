@@ -23,7 +23,13 @@
     display: none;
 }
 
-@media (max-width: 767px) {
+a img {
+    min-width: 100px;
+    min-height: 100px;
+}
+
+
+@media screen and (max-width: 767px) {
     .header {
         flex-direction: column;
     }
@@ -53,5 +59,25 @@
         line-height: 2em;
         text-align: center;
         cursor: pointer;
+    }
+
+    p {
+        font-size: $small-font-size;
+    }
+
+    .grid-tech {
+        grid-template-columns: 100%;
+
+        h1 {
+            grid-column: initial;
+        }
+    }
+
+    .box1:last-child {
+        grid-column: initial;
+    }
+
+    .center-main {
+        flex-direction: column;
     }
 }
