@@ -1,5 +1,5 @@
 ---
-Title: Technologies
+Title: Technology
 Description: Technologies
 Template: technologies
 # hidden: true
