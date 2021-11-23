@@ -82,6 +82,8 @@ Både rubriker och brödtext använder "Segoe UI" som är en typ av sans-serif.
 
 Vi kan konstatera att webbplatsen har ett färgval och typografi som är baserat på deras syfte. I detta fallet är syftet samma som battl.net (försäljning). Skillnaden är att Microsoft använder sig av mindre färgglada färger och då ger detta ett mer professionellt intryck. Färgvalet kan också vara baserat på den målgrupp de vill nå.
 </li>
+
+<br>
 <li markdown="1">
 Blekinge Tekniska Högskola
 
