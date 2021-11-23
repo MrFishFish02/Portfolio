@@ -103,12 +103,41 @@ li a {
     margin-right: 7px;
 }
 
-.fa {
-    font-size: $font-size-title;
+
+.fab {
+    padding: 5px;
+    font-size: $font-size-icon;
 }
 
 div a {
     color: $light-font-color;
     font-size: $font-size-p;
     text-decoration: none;
+}
+
+.box1 {
+    background-color: $dark-color;
+    border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+
+    &:hover {
+        border-image: linear-gradient(to right, $light-color-dark 0%, $dark-font-color 50%) 5;
+    }
+
+    a {
+        color: $link-color-dark;
+    }
+
+}
+
+.footer {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+
+    * {
+        color: $font-color;
+    }
+}
+
+.box2 {
+    font-weight: bold;
 }

@@ -1,18 +1,38 @@
 // Background  Text
-$background-color: #15171e;
-$font-color: #0074e0;
-$light-font-color: rgb(0, 132, 255);
-$pre-code-color: #b3c8ea;
+$background-color: rgb(247, 247, 247);
+$font-color: #012f73;
+$light-font-color: #000;
+$link-color: #000;
+$pre-code-color: #949494;
 
 // Font
 $links-size: 2rem;
 $custom-font: 'Raleway';
-$link-color: #4ba;
+
 $font-size-p: 1.5rem;
 $font-size-title: 3rem;
 $small-font-size: 1.5rem;
 $font-weight: 600;
-
+$font-size-icon: 2rem;
 
 // color - tech
 $dark-color: rgb(5, 5, 5);
+
+
+// dark theme (light)
+
+$dark-font-color: #00427f;
+$light-color-dark: #0084ff;
+$link-color-dark: #7fc1ff;
+$dark-background-color: #000;
+$pre-code-color-dark: rgb(224, 224, 224);
+
+// background-color: #15171e;
+// $font-color: #0074e0;
+// $light-font-color: rgb(0, 132, 255);
+// $link-color: #4ba;
+// $pre-code-color: #b3c8ea;
+// $dark-font-color: rgb(58, 57, 112);
+// $normal-font-color: aqua;
+// $link-color-dark: rgb(6, 110, 110);
+// $dark-background-color: white;

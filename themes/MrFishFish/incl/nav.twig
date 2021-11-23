@@ -27,6 +27,11 @@
                         <a href="{{ page.url }}">{{ page.title }}</a>
                     </li>
                 {% endfor %}
+                {% for nav in pages["_meta"].meta.nav %}
+                <li{% if page.id==current_page.id %} class="active" {% endif %}>
+                    <a href="{{ nav.url }}" title="{{ nav.title }}"><i class="fas">&#x{{ nav.icon }};</i></a>
+                </li>
+                {% endfor %}
             </ul>
         </div>
     </div>

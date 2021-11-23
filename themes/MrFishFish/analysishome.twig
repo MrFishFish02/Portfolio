@@ -1,0 +1,22 @@
+{% include 'incl/header.twig' %}
+
+<body>
+    {% include 'incl/nav.twig' %}
+    <div class="main" role="main">
+        <div class="grid-al">
+            {{ content }}
+            {% for page in pages ("analysis") %}
+                <div class="box-al" markdown="1">
+                    <a href="{{page.url}}" class="tech_links">
+                        <span>
+                            {{page.title}}
+                        </span>
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% include 'incl/footer.twig' %}
+</body>
+
+</html>

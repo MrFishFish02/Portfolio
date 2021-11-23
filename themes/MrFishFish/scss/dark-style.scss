@@ -1,0 +1,119 @@
+/* Typografy */
+
+body {
+    background-color: $dark-color;
+}
+
+p,
+td,
+th,
+li,
+dd {
+    color: $link-color-dark;
+} 
+
+.main p {
+    color: $link-color-dark;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $light-color-dark;
+}
+
+.center-main h1 {
+    color: $light-color-dark;
+}
+
+.nav a {
+    color: $link-color-dark;
+}
+
+.title * {
+    color: $light-color-dark;
+}
+
+.center-main {
+    color: $link-color-dark;
+}
+
+.center-main img {
+    border: 5px solid $dark-font-color;
+}
+
+
+.main p a,
+li a {
+    color: $link-color-dark;
+}
+
+
+div a {
+    color: $light-color-dark;
+}
+
+code {
+    border: 1px solid $link-color-dark;
+    background: $pre-code-color-dark;
+    color: $dark-font-color;
+}
+
+pre {
+    border: 1px solid $light-color-dark;
+}
+
+.grid-tech {
+    h1 {
+        color: $light-color-dark;
+        border-bottom: 3px solid;
+        border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+    }
+}
+
+.box1 {
+    background-color: $dark-color;
+    border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+
+    &:hover {
+        border-image: linear-gradient(to right, $light-color-dark 0%, $dark-font-color 50%) 5;
+    }
+
+    a {
+        color: $link-color-dark;
+    }
+}
+
+.footer {
+    border-top: 1px solid;
+    border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+
+    * {
+        color: $link-color-dark;
+    }
+}
+
+.grid-al {
+    h1 {
+        color: $font-color;
+        border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+    
+    }
+}
+
+.box-al {
+    background-color: $dark-background-color;
+    border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+
+    &:hover {
+        border-image: linear-gradient(to right, $light-color-dark 0%, $dark-font-color 50%) 5;
+    }
+
+    a {
+        color: $light-color-dark;
+    }
+
+}

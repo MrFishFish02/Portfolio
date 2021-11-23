@@ -27,7 +27,7 @@
 
 .box1 {
     display: flex;
-    background-color: $dark-color;
+    background-color: $background-color;
     border: 5px solid;
     justify-content: center;
     border-image: linear-gradient(to right, $font-color 0%, $link-color 50%) 5;
