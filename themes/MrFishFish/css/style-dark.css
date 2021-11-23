@@ -6531,7 +6531,7 @@ blockquote {
 body {
   font-family: "Raleway", sans-serif;
   /* line-height: 1.5rem; */
-  background-color: #eeeded;
+  background-color: #f7f7f7;
   -ms-overflow-style: none;
   scrollbar-width: none;
   overflow-y: scroll;
@@ -6694,7 +6694,7 @@ div a {
 
 .box-al {
   display: flex;
-  background-color: #eeeded;
+  background-color: #f7f7f7;
   border: 5px solid;
   justify-content: center;
   border-image: linear-gradient(to right, #012f73 0%, #000 50%) 5;
@@ -6737,7 +6737,7 @@ div a {
 
 .box1 {
   display: flex;
-  background-color: #eeeded;
+  background-color: #f7f7f7;
   border: 5px solid;
   justify-content: center;
   border-image: linear-gradient(to right, #012f73 0%, #000 50%) 5;
@@ -6971,7 +6971,7 @@ pre {
   border-image: linear-gradient(to right, #0084ff 0%, #00427f 50%) 5;
 }
 .box1 a {
-  color: #7fc1ff;
+  color: white;
 }
 
 .footer {
@@ -6983,17 +6983,17 @@ pre {
 }
 
 .grid-al h1 {
-  color: #012f73;
+  color: #0084ff;
   border-image: linear-gradient(to right, #00427f 0%, #0084ff 50%) 5;
 }
 
 .box-al {
-  background-color: #000;
+  background-color: #050505;
   border-image: linear-gradient(to right, #00427f 0%, #0084ff 50%) 5;
 }
 .box-al:hover {
   border-image: linear-gradient(to right, #0084ff 0%, #00427f 50%) 5;
 }
 .box-al a {
-  color: #0084ff;
+  color: white;
 }

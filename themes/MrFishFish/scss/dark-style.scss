@@ -51,7 +51,6 @@ li a {
     color: $link-color-dark;
 }
 
-
 div a {
     color: $light-color-dark;
 }
@@ -83,7 +82,7 @@ pre {
     }
 
     a {
-        color: $link-color-dark;
+        color: white;
     }
 }
 
@@ -98,14 +97,14 @@ pre {
 
 .grid-al {
     h1 {
-        color: $font-color;
+        color: $light-color-dark;
         border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
     
     }
 }
 
 .box-al {
-    background-color: $dark-background-color;
+    background-color: $dark-color;
     border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
 
     &:hover {
@@ -113,7 +112,7 @@ pre {
     }
 
     a {
-        color: $light-color-dark;
+        color: white;
     }
 
 }
