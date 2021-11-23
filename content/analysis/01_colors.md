@@ -18,7 +18,7 @@ Urval
 <li  markdown="1">
 Battle.net
 
-![Battlenet](%assets_url%/img/Battlenet.png "Battle.net website")
+![Battlenet](%assets_url%/img/battlenet.png "Battle.net website")
 </li>
 <br>
 <li markdown="1">
@@ -56,7 +56,7 @@ Battle.net
 
 <br>
 
-![Battlenet_result](%assets_url%/img/battlenetC.png "Battle.net colorscheme result")
+![Battlenet_result](%assets_url%/img/battlenetC.PNG "Battle.net colorscheme result")
 Battle.net har ett monokromatiskt färgschema. Sidan använder mestadels grå färg med grönt, blått och orange som accentfärger. Det resulterar i att accentfärgerna blir mer tydliga. De olika accentfärgerna referar till olika saker, till exempel grönt används till att markera "blackfriday sale". Medan blå används för knapparna på sidan. Färgerna på sidan är "glada" vilket kan reflektera produkterna de säljer som är spel.
 
 <br>
@@ -72,7 +72,7 @@ Microsoft
 
 <br>
 
-![Microsoft_result](%assets_url%/img/microsoftC.png "Microsoft colorscheme result")
+![Microsoft_result](%assets_url%/img/MicrosoftC.PNG "Microsoft colorscheme result")
 Microsoft har akromatiskt färgschema med vitt och svart som kompleteras med accentfärgerna som är kompletmentfärger. Sidan använder mestadels vitt och svar, dessa två färger gör att accentfärgerna som är blått och rött kan lyfta fram viktiga saker på sidan.
 
 <br>
@@ -87,7 +87,7 @@ Blekinge Tekniska Högskola
 
 <br>
 
-![BTH_result](%assets_url%/img/bthC.png "BTH colorscheme result")
+![BTH_result](%assets_url%/img/bthC.PNG "BTH colorscheme result")
 BTH har ett monkromatiskt färgschema. Utav de tre sidor som valdes så har BTH den tydligaste typen av färgschema (monokromatiskt). 
 
 <br>
