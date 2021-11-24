@@ -80,4 +80,17 @@ a img {
     .center-main {
         flex-direction: column;
     }
+
+    .grid-al{
+        grid-template-columns: 100%;
+    
+        h1 {
+            grid-column: initial;
+        }
+    }
+
+    .aside-tech {
+        display: none;
+    }
 }
+
