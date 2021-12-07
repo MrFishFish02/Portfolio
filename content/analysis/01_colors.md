@@ -25,7 +25,7 @@ Vi valde webbsidor som är relevanta för oss. BTH besöks frekvent eftersom det
 
 ## Metod
 
-Vi använda oss av css overview som är ett standard verktyg i chrome devtools för att ta ut de olika färger på webbsidan. Sedan användes adobe-color för lista ut vilket färg schema webbsidorna använde sig av.
+Vi använde oss av css overview som är ett standard verktyg i chrome devtools för att ta ut de olika färger på webbsidan. Sedan användes adobe-color för lista ut vilket färg schema webbsidorna använde sig av.
 
 ## Resultat
 

@@ -45,6 +45,9 @@ h6 {
     border: 5px solid $dark-font-color;
 }
 
+.nav-toggle {
+    color: $light-color-dark;
+}
 
 .main p a,
 li a {
@@ -82,7 +85,7 @@ pre {
     }
 
     a {
-        color: white;
+        color: $white;
     }
 }
 
@@ -112,7 +115,30 @@ pre {
     }
 
     a {
-        color: white;
+        color: $white;
     }
 
+}
+
+.grid-p {
+    h1 {
+        color: $light-color-dark;
+        border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+    }
+
+    img {
+        border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+    }
+
+    img:hover {
+        border-image: linear-gradient(to right, $light-color-dark 0%, $dark-font-color 50%) 5;
+    }
+}
+
+.embed-container {
+    border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
+
+    &:hover {
+        border-image: linear-gradient(to right, $light-color-dark 0%, $dark-font-color 50%) 5;
+    }
 }
