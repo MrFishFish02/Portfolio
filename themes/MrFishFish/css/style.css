@@ -6587,7 +6587,8 @@ img {
 }
 
 .center-main img {
-  border: 5px solid #012f73;
+  border: 5px solid;
+  border-image: linear-gradient(to right, #012f73 0%, #000 50%) 5;
   min-width: 15rem;
   min-height: 15rem;
   font-size: 3rem;

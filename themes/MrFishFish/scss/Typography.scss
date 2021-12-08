@@ -59,7 +59,8 @@ img {
 }
 
 .center-main img {
-    border: 5px solid $font-color;
+    border: 5px solid;
+    border-image: linear-gradient(to right, $font-color 0%, $link-color 50%) 5;
     min-width: 15rem;
     min-height: 15rem;
     font-size: $font-size-title;

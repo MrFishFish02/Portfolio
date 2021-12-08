@@ -6587,7 +6587,8 @@ img {
 }
 
 .center-main img {
-  border: 5px solid #012f73;
+  border: 5px solid;
+  border-image: linear-gradient(to right, #012f73 0%, #000 50%) 5;
   min-width: 15rem;
   min-height: 15rem;
   font-size: 3rem;
@@ -7014,7 +7015,7 @@ h6 {
 }
 
 .center-main img {
-  border: 5px solid #00427f;
+  border-image: linear-gradient(to right, #00427f 0%, #0084ff 50%) 5;
 }
 
 .nav-toggle {
@@ -7054,7 +7055,7 @@ pre {
   border-image: linear-gradient(to right, #0084ff 0%, #00427f 50%) 5;
 }
 .box1 a {
-  color: white;
+  color: #f3f1f1;
 }
 
 .footer {
@@ -7078,7 +7079,7 @@ pre {
   border-image: linear-gradient(to right, #0084ff 0%, #00427f 50%) 5;
 }
 .box-al a {
-  color: white;
+  color: #f3f1f1;
 }
 
 .grid-p h1 {

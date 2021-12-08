@@ -14,7 +14,10 @@ Uppgiften handlar om att analysera 3 olika subsidor på 3 olika webbplatser. Web
 
 ## Urval
 
+&nbsp;
+
 Vi har valt webbplatser med ett försäljnings syfte. Vi tyckte att det kunde vara intressant att mäta prestandan i webbplatser som visar upp produkter i form av bilder.
+
 &nbsp;
 
 -   **NetOnNet**

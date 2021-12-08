@@ -42,7 +42,7 @@ h6 {
 }
 
 .center-main img {
-    border: 5px solid $dark-font-color;
+    border-image: linear-gradient(to right, $dark-font-color 0%, $light-color-dark 50%) 5;
 }
 
 .nav-toggle {
